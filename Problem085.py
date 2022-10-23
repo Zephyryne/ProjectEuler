@@ -1,6 +1,3 @@
-#import time
-#start = time.time()
-
 maxbelow = 0
 maxabove = 1249537809128347
 
@@ -20,6 +17,3 @@ if (2000000-maxbelow) < (maxabove-2000000):
     print(areabelow)
 else:
     print(areaabove)
-
-#end = time.time()
-#print((end-start)*(10**3), "ms")

@@ -1,4 +1,3 @@
-#Takes a minute or so to calculate.
 sum = 0
 for i in range(0,1000000):
   check = 0

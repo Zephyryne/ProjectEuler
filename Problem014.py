@@ -1,4 +1,3 @@
-#Took several minutes to calculate
 num = 4
 maxlen = 0
 max = 0

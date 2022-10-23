@@ -1,4 +1,3 @@
-#why this work??????
 def isPrime(n):
   if n==1:
     return False

@@ -1,4 +1,6 @@
 #Took absolutely forever to calculate
+#Edit: See Problem012.cpp for a much faster approach
+
 divs = 0
 index = 0
 num = 1
